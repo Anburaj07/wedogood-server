@@ -1,0 +1,24 @@
+{
+  "name": "wedogood_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anburaj07/wedogood-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anburaj07/wedogood-server/issues"
+  },
+  "homepage": "https://github.com/Anburaj07/wedogood-server#readme",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
